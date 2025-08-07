@@ -50,3 +50,44 @@
     grid-auto-flow: column;
     columns: auto;
 }
+
+#image {
+    margin: 100px 25px 100px 100px;
+}
+
+#textoconteudo {
+    text-align: justify;
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 260px 25px 50px 100px;
+}
+#image, #textoconteudo, #formulario {
+    visibility: hidden;
+}
+
+#spanconteudo {
+    text-align: justify;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+#formulario {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#tituloformulario {
+    font-size: 32px;
+    padding: 70px 70px 20px 70px;
+    color: blueviolet;
+}
+
+#imput {
+    width: 400px;
+    height: 60px;
+    background-color: blueviolet;
+    margin: 25px;
+    border: 1px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
