@@ -105,4 +105,11 @@ button {
     font-size:30px;
     cusor: pointer;
 }
+
+bottom.hover {
+    backgroud-color: #f88e0c;
+    color: wite;
+    transform: translateY(-3px);
+    box-shadow:0px 10px 15px #f1bd73;
+    transition-duration: 0.3s
 }
